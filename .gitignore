@@ -1,7 +1,6 @@
 node_modules
 .DS_Store
-example
-bundle.js
+build
 yarn.lock
 yarn-error.log
 *.swp
